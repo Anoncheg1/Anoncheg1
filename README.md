@@ -1,6 +1,8 @@
 ### Hi there 👋
+My notes:
+[![asdasd](https://www.python.org/static/favicon.ico) Python](https://github.io)
 
-<!--
+
 **Anoncheg1/Anoncheg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
