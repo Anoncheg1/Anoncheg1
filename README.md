@@ -24,7 +24,7 @@
   
 [git](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/git.html)
   
-[Loginom Machine Learning](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/loginom.html)
+[Loginom Machine Learning](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/Loginom.html)
   
 [Stock trading](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/broker.html)
 
