@@ -38,7 +38,7 @@
 </details>
 
 
-🔭 I’m currently looking for work vitalij@gmx.com
+🔭 I’m currently looking for job. vitalij@gmx.com
 
 <!--
 - 🔭 I’m currently working on ... search for work
