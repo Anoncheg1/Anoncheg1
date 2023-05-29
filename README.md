@@ -12,6 +12,8 @@
 <details><summary>More</summary>
 <p>
 
+[<img src="https://julialang.org/assets/infra/julia.ico" width="30" height="30"> Julia programming language](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/julia.html)
+  
 [<img src="https://www.urbandictionary.com/favicon.ico" width="30" height="30"> English](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/english.html)
   
 [<img src="https://www.gnu.org/software/emacs/images/emacs.png" width="30" height="30"> Emacs text editor](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/emacsh.html)
