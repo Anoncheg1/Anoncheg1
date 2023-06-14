@@ -13,6 +13,10 @@
 <p>
 
 [<img src="https://julialang.org/assets/infra/julia.ico" width="30" height="30"> Julia programming language](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/julia.html)
+
+[Lua](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/lua.html)
+
+[POSIX shell](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/shell.html)
   
 [<img src="https://www.urbandictionary.com/favicon.ico" width="30" height="30"> English](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/english.html)
   
