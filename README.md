@@ -1,4 +1,4 @@
-### You are welcome if you are a human. Here is my knowledge:
+### Here is my knowledge:
 |  |  |
 | --- | --- |
 | [<img src="https://www.python.org/static/favicon.ico" width="30" height="30"> Python](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/python.html)   |  [<img src="https://julialang.org/assets/infra/julia.ico" width="30" height="30"> Julia programming language](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/julia.html)  |
