@@ -7,6 +7,7 @@
 | [<img src="https://static.tildacdn.com/tild3338-3936-4966-b936-663163356536/photo.ico" width="30" height="30"> Data science course skillfactory](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/data_science_course.html)   |  [<img src="https://octave.sourceforge.io/interval/package_doc/image/interval-sombrero.m.png" width="30" height="30"> Math](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/math.html)  |
 | [<img src="https://opencv.org/wp-content/uploads/2020/07/cropped-Fav-32x32.png" width="30" height="30">  Computer vision](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/vision.html)   |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%E9%BB%91-bronze.svg/240px-%E9%BB%91-bronze.svg.png" width="30" height="30"> Computer security](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/hacking.html)  |
 | [<img src="https://www.techtarget.com/favicon.ico" width="30" height="30"> Business Intelligence](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/bi.html)   |  [<img src="https://www.gentoo.org/assets/img/logo/icon-192.png" width="30" height="30"> *nix administration](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/nix.html) |
+| [<img src="https://resources.jetbrains.com/storage/products/jetbrains/img/icons/favicon.ico" width="30" height="30"> Shell, Bash](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/shell.html)                              | [<img src="https://www.gentoo.org/favicon.ico" width="30" height="30"> Gentoo](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/gentoo.html)                                                                                               |
 | [<img src="https://www.docker.com/favicon.ico" width="30" height="30"> Docker and kubernetes](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/docker_and_k8s.html) | [<img src="https://www.lindamandarin.com.sg/wp-content/uploads/2021/02/linda-m-favicon.png" width="30" height="30"> Chinese](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/chinese.html) |
 
 <details><summary>More</summary>
@@ -15,8 +16,6 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" width="30" height="30"> JavaScript](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/javascript.html)
 
 [Lua](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/lua.html)
-
-[POSIX shell](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/shell.html)
   
 [<img src="https://www.urbandictionary.com/favicon.ico" width="30" height="30"> English](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/english.html)
   
