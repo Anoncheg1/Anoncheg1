@@ -1,3 +1,5 @@
+**Hi! I am programmer, AI and Data Scientist. My main languages is Python and Bash.**
+
 ### Here is my notes and my knowledge:
 |  |  |
 | --- | --- |
@@ -16,27 +18,27 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" width="30" height="30"> JavaScript](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/javascript.html)
 
 [Lua](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/lua.html)
-  
+
 [<img src="https://www.urbandictionary.com/favicon.ico" width="30" height="30"> English](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/english.html)
-  
+
 [<img src="https://www.gnu.org/software/emacs/images/emacs.png" width="30" height="30"> Emacs text editor](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/emacsh.html)
-  
+
 [<img src="https://www.editplus.com/favicon.ico" width="30" height="30"> The theory of programming](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/Theory.html)
-  
+
 [Electronic](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/electronic.html)
-  
+
 [Spanish](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/spanish.html)
 
 [Lisp](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/lisp.html)
-  
-[html](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/html.html)  
+
+[html](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/html.html)
 
 [php](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/php.html)
-  
+
 [git](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/git.html)
-  
+
 [Loginom Machine Learning](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/Loginom.html)
-  
+
 [Stock trading](https://anoncheg1.github.io/yet_another_insignificant_programming_notes/broker.html)
 
 </p>
