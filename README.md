@@ -1,5 +1,5 @@
 ## Hi, am I'am **programmer, AI and Data Scientist** 👋
-My main languages is **Python** and **Bash Shell**.
+My main languages are **Python** and **Bash Shell**.
 
 My favorite text editor is [GNU Emacs](https://www.gnu.org/software/emacs/)
 
