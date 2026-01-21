@@ -1,9 +1,11 @@
-## Hi, am I'am **programmer, AI and Data Scientist** 👋
+## Hi, I'm a programmer, AI and Data Scientist 👋
 My main languages are **Python** and **Bash Shell**.
 
 My favorite text editor is [GNU Emacs](https://www.gnu.org/software/emacs/)
 
 My favorite OS is [Gentoo GNU/Linux](https://www.gentoo.org/)
+
+My philosophy is free and open-source software and anonymity.
 
 ### Here is my notes and my knowledge:
 |  |  |
