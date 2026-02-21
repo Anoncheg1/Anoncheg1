@@ -5,7 +5,7 @@ My favorite *text editor* is [GNU Emacs](https://www.gnu.org/software/emacs/)
 
 My favorite *OS* is [Gentoo GNU/Linux](https://www.gentoo.org/)
 
-My *philosophy* is free and open-source software and anonymity (Internet Ethic).
+My *philosophy* is free and open-source software and anonymity (the Internet ethic).
 
 My *Universal formula for effectiveness*: 1) "Check your seat" (resources) 2) Decide: take a small or big step, record it, or ignore it completely.
 
