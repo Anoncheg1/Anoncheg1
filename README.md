@@ -7,7 +7,7 @@ My favorite *OS* is [Gentoo GNU/Linux](https://www.gentoo.org/)
 
 My *philosophy* is free and open-source software and anonymity (the Internet ethic).
 
-My *approach*: 1) "Check your seat" (resources) 2) Fixate strategy: take a small or big step, record or ignore completely.
+My *strategy*: 1) "Check your seat", resources 2) Take a small or big step, record or ignore completely.
 
 ### Here is my notes and my knowledge:
 |  |  |
